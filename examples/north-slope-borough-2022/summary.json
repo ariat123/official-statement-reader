@@ -1,0 +1,711 @@
+{
+  "document": {
+    "title": "North Slope Borough, Alaska, General Obligation Bonds, Series 2022A (General Purpose), 2022B (Schools) and 2022C (Public Housing): Official Statement",
+    "dated": "October 26, 2022",
+    "pdf_pages": 220,
+    "source": "MSRB EMMA (public)"
+  },
+  "sections": [
+    {
+      "title": "Deal at a glance",
+      "claims": [
+        {
+          "id": "A1",
+          "text": "North Slope Borough, Alaska is selling three series of general obligation bonds: $71,530,000 Series 2022A (General Purpose), $9,165,000 Series 2022B (Schools) and $13,790,000 Series 2022C (Public Housing).",
+          "cites": [
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "the sale of its $71,530,000 North Slope Borough, Alaska, General Obligation Bonds, Series 2022A (General Purpose)"
+            },
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "its $9,165,000 North Slope Borough, Alaska, General Obligation Bonds, Series 2022B (Schools)"
+            },
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "its $13,790,000 North Slope Borough, Alaska, General Obligation Bonds, Series 2022C (Public Housing)"
+            }
+          ]
+        },
+        {
+          "id": "A2",
+          "text": "Total par across the three series is $94,485,000.",
+          "derived": true,
+          "calc": "71,530,000 + 9,165,000 + 13,790,000 = 94,485,000",
+          "cites": [
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "the sale of its $71,530,000 North Slope Borough"
+            }
+          ]
+        },
+        {
+          "id": "A3",
+          "text": "The final official statement is dated October 26, 2022. Delivery is expected on or about November 15, 2022.",
+          "cites": [
+            {
+              "pdf_page": 1,
+              "page_label": "cover",
+              "quote": "October 26, 2022"
+            },
+            {
+              "pdf_page": 1,
+              "page_label": "cover",
+              "quote": "on or about November 15, 2022"
+            }
+          ]
+        },
+        {
+          "id": "A4",
+          "text": "KeyBanc Capital Markets Inc. is the underwriter and has agreed to buy all three series, subject to conditions.",
+          "cites": [
+            {
+              "pdf_page": 19,
+              "page_label": "13",
+              "quote": "KeyBanc Capital Markets, Inc. (the \"Underwriter\"), has agreed, subject to certain conditions precedent, to purchase the 2022A Bonds"
+            }
+          ]
+        },
+        {
+          "id": "A5",
+          "text": "Working group: JD Capital Markets LLC (Seattle) is municipal advisor, Hawkins Delafield & Wood LLP is bond and disclosure counsel, Orrick, Herrington & Sutcliffe LLP is underwriter's counsel, and The Bank of New York Mellon Trust Company, N.A. is paying agent and registrar.",
+          "cites": [
+            {
+              "pdf_page": 18,
+              "page_label": "12",
+              "quote": "The Borough has utilized the services of JD Capital Markets LLC, Seattle, Washington, as municipal advisor"
+            },
+            {
+              "pdf_page": 1,
+              "page_label": "cover",
+              "quote": "Hawkins Delafield & Wood LLP, Disclosure Counsel to the Borough"
+            },
+            {
+              "pdf_page": 1,
+              "page_label": "cover",
+              "quote": "passed upon for the Underwriter by its counsel, Orrick, Herrington & Sutcliffe LLP"
+            },
+            {
+              "pdf_page": 1,
+              "page_label": "cover",
+              "quote": "The Bank of New York Mellon Trust Company, N.A., San Francisco, California, as Paying Agent and Registrar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Security and purpose",
+      "claims": [
+        {
+          "id": "B1",
+          "text": "Unlimited-tax GO pledge: the Borough pledges its full faith and credit and must levy property taxes without limit as to rate or amount to pay the bonds.",
+          "cites": [
+            {
+              "pdf_page": 9,
+              "page_label": "3",
+              "quote": "the full faith and credit of the Borough are pledged to the payment of the principal of and interest on the 2022 Bonds"
+            },
+            {
+              "pdf_page": 9,
+              "page_label": "3",
+              "quote": "without limitation as to rate or amount"
+            }
+          ]
+        },
+        {
+          "id": "B2",
+          "text": "The Borough's Permanent Fund (about $961.8 million on June 30, 2022) cannot be used to pay debt service.",
+          "cites": [
+            {
+              "pdf_page": 9,
+              "page_label": "3",
+              "quote": "The Borough's Charter prohibits the use of the Borough's Permanent Fund and income transferred from the Permanent Fund to the General Fund to pay debt service on the 2022 Bonds"
+            },
+            {
+              "pdf_page": 33,
+              "page_label": "A-1-7",
+              "quote": "On June 30, 2022, the value of the Permanent Fund was approximately $961.8 million."
+            }
+          ]
+        },
+        {
+          "id": "B3",
+          "text": "Alaska municipalities can't currently file for Chapter 9 bankruptcy, and Borough Code requires all oil and gas property taxes to go to a debt service account.",
+          "cites": [
+            {
+              "pdf_page": 9,
+              "page_label": "3",
+              "quote": "are not currently authorized by state law to file for voluntary bankruptcy under Chapter 9 of the United States Bankruptcy Code"
+            },
+            {
+              "pdf_page": 9,
+              "page_label": "3",
+              "quote": "all oil and gas property taxes levied under AS 29.45.100 are required to be appropriated to a debt service account within the General Fund"
+            }
+          ]
+        },
+        {
+          "id": "B4",
+          "text": "Voters approved the bond ordinances on October 4, 2022, and the Assembly adopted the authorizing resolution on October 11, 2022.",
+          "cites": [
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "approved by the qualified voters of the Borough at an election held on October 4, 2022"
+            },
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "adopted by the Borough Assembly on October 11, 2022"
+            }
+          ]
+        },
+        {
+          "id": "B5",
+          "text": "Proceeds fund capital projects under ten bond ordinances authorizing $101,970,000, led by water facilities ($22,470,000), general capital projects ($20,745,000) and public housing ($14,395,000).",
+          "cites": [
+            {
+              "pdf_page": 10,
+              "page_label": "4",
+              "quote": "2022-05 Water Facilities 22,470,000"
+            },
+            {
+              "pdf_page": 10,
+              "page_label": "4",
+              "quote": "2022-11 General Capital Projects 20,745,000"
+            },
+            {
+              "pdf_page": 10,
+              "page_label": "4",
+              "quote": "2022-04 Public Housing 14,395,000"
+            },
+            {
+              "pdf_page": 10,
+              "page_label": "4",
+              "quote": "TOTAL: $101,970,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure",
+      "claims": [
+        {
+          "id": "C1",
+          "text": "All maturities carry 5.00% coupons. Serial maturities run 2023 to 2033: 2022A matures 2026 to 2029, 2022B 2023 to 2033, and 2022C 2023 to 2026.",
+          "cites": [
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2026 $ 6,110,000 5.00% 3.440% 662523P78"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2029 23,360,000 5.00 3.600 662523Q28"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2023 $ 420,000 5.00% 3.230% 662523Q36"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2033 1,080,000 5.00 3.920 662523R50"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2023 $5,200,000 5.00% 3.230% 662523R68"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2026 3,380,000 5.00 3.440 662523R92"
+            }
+          ]
+        },
+        {
+          "id": "C2",
+          "text": "Yields run from 3.230% in 2023 to 3.920% in 2033. The large 2022A maturities price at 3.440% (2026) to 3.600% (2029).",
+          "cites": [
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2023 $ 420,000 5.00% 3.230% 662523Q36"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2033 1,080,000 5.00 3.920 662523R50"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2026 $ 6,110,000 5.00% 3.440% 662523P78"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2029 23,360,000 5.00 3.600 662523Q28"
+            }
+          ]
+        },
+        {
+          "id": "C3",
+          "text": "No call: the bonds are not subject to redemption before maturity.",
+          "cites": [
+            {
+              "pdf_page": 8,
+              "page_label": "2",
+              "quote": "The 2022 Bonds are not subject to redemption prior to maturity."
+            },
+            {
+              "pdf_page": 1,
+              "page_label": "cover",
+              "quote": "The 2022 Bonds are not subject to redemption prior to their stated maturity dates."
+            }
+          ]
+        },
+        {
+          "id": "C4",
+          "text": "Interest is paid June 30 and December 30, starting June 30, 2023. Denominations are $5,000.",
+          "cites": [
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "Interest on the 2022 Bonds will be payable on each June 30 and December 30, commencing on June 30, 2023."
+            },
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "denominations of $5,000"
+            }
+          ]
+        },
+        {
+          "id": "C5",
+          "text": "Tax-exempt and not an AMT preference item. For tax years after December 31, 2022, interest counts toward adjusted financial statement income for certain corporations subject to the AMT.",
+          "cites": [
+            {
+              "pdf_page": 15,
+              "page_label": "9",
+              "quote": "interest on the 2022 Bonds is excluded from gross income for Federal income tax purposes"
+            },
+            {
+              "pdf_page": 15,
+              "page_label": "9",
+              "quote": "however for tax years beginning after December 31, 2022, interest on the Series 2022 Bonds is included in the \"adjusted financial statement income\" of certain corporations"
+            }
+          ]
+        },
+        {
+          "id": "C6",
+          "text": "Debt service on this issue totals $118,388,406. It peaks at $24,653,750 to $25,663,250 a year in fiscal 2027 to 2029, then falls to $1,134,000 by 2033.",
+          "cites": [
+            {
+              "pdf_page": 13,
+              "page_label": "7",
+              "quote": "$13,790,000 $1,374,188 $118,388,406"
+            },
+            {
+              "pdf_page": 13,
+              "page_label": "7",
+              "quote": "2027 4,515,000 562,250 5,077,250 20,250,000 3,271,000 805,000 327,750 24,653,750"
+            },
+            {
+              "pdf_page": 13,
+              "page_label": "7",
+              "quote": "2029 1,505,000 220,300 1,725,300 23,360,000 1,168,000 890,000 245,250 25,663,250"
+            },
+            {
+              "pdf_page": 13,
+              "page_label": "7",
+              "quote": "2033 1,080,000 54,000 1,134,000 1,134,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ratings",
+      "claims": [
+        {
+          "id": "D1",
+          "text": "The 2022 Bonds are rated AA by S&P, AA by Fitch and AA+ by Kroll.",
+          "cites": [
+            {
+              "pdf_page": 19,
+              "page_label": "13",
+              "quote": "S&P Global Ratings (\"S&P\") has rated the 2022 Bonds \"AA\"; Fitch Ratings Inc. (\"Fitch\") has rated the 2022 Bonds \"AA\" and Kroll Bond Rating Agency, Inc. (\"Kroll\") has rated the 2022 Bonds \"AA+.\""
+            }
+          ]
+        },
+        {
+          "id": "D2",
+          "text": "The Moody's Aa2 listed in the audited financial statements (Appendix D) is not a rating on these bonds. The Ratings section names only S&P, Fitch and Kroll.",
+          "cites": [
+            {
+              "pdf_page": 106,
+              "page_label": "D: 15",
+              "quote": "Moody's Investors Service Aa2"
+            },
+            {
+              "pdf_page": 19,
+              "page_label": "13",
+              "quote": "Such ratings reflect only the views of S&P, Fitch and Kroll."
+            }
+          ],
+          "flag": "Look-alike."
+        }
+      ]
+    },
+    {
+      "title": "Sources and uses",
+      "claims": [
+        {
+          "id": "E1",
+          "text": "Sources are par plus original issue premium of $5,115,226.50 (2022A), $649,515.40 (2022B) and $423,433.75 (2022C).",
+          "cites": [
+            {
+              "pdf_page": 10,
+              "page_label": "4",
+              "quote": "Original issue premium 5,115,226.50 649,515.40 423,433.75"
+            }
+          ]
+        },
+        {
+          "id": "E2",
+          "text": "Uses are deposits to the capital projects funds ($76,136,000.00, $9,749,000.00 and $14,115,000.00) and costs of issuance ($509,226.50, $65,515.40 and $98,433.75). Costs of issuance include the underwriter's discount.",
+          "cites": [
+            {
+              "pdf_page": 10,
+              "page_label": "4",
+              "quote": "Deposit to Capital Projects Funds 76,136,000.00 9,749,000.00 14,115,000.00"
+            },
+            {
+              "pdf_page": 10,
+              "page_label": "4",
+              "quote": "Costs of issuance(1) 509,226.50 65,515.40 98,433.75"
+            },
+            {
+              "pdf_page": 10,
+              "page_label": "4",
+              "quote": "Underwriter's discount; and other costs related to issuance of the 2022 Bonds."
+            }
+          ]
+        },
+        {
+          "id": "E3",
+          "text": "Underwriter's discount totals $187,622.30 across the three series, about $1.99 per $1,000 of par.",
+          "derived": true,
+          "calc": "142,039.72 + 18,199.28 + 27,383.30 = 187,622.30; 187,622.30 / 94,485 (par in thousands) = 1.99",
+          "cites": [
+            {
+              "pdf_page": 19,
+              "page_label": "13",
+              "quote": "less underwriter's discount of $142,039.72"
+            },
+            {
+              "pdf_page": 19,
+              "page_label": "13",
+              "quote": "less underwriter's discount of $18,199.28"
+            },
+            {
+              "pdf_page": 19,
+              "page_label": "13",
+              "quote": "less underwriter's discount of $27,383.30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Credit points to check",
+      "claims": [
+        {
+          "id": "F1",
+          "text": "After this issue the Borough will have $296,580,000 of GO bonds outstanding and no authorized but unissued GO bonds.",
+          "cites": [
+            {
+              "pdf_page": 11,
+              "page_label": "5",
+              "quote": "Total Outstanding General Obligation Bonds $296,580,000"
+            },
+            {
+              "pdf_page": 11,
+              "page_label": "5",
+              "quote": "The Borough will have no authorized but unissued general obligation bonds immediately after the issuance of the 2022 Bonds."
+            }
+          ]
+        },
+        {
+          "id": "F2",
+          "text": "Net GO debt is 1.35% of the $21,982,877,719 assessed value as of January 1, 2022, or $18,655 per resident (population 15,898).",
+          "cites": [
+            {
+              "pdf_page": 12,
+              "page_label": "6",
+              "quote": "Net General Obligation Debt as a Percentage of Assessed Valuation 1.35%"
+            },
+            {
+              "pdf_page": 12,
+              "page_label": "6",
+              "quote": "Assessed Valuation as of January 1, 2022(2), (4) $21,982,877,719"
+            },
+            {
+              "pdf_page": 12,
+              "page_label": "6",
+              "quote": "Net General Obligation Debt Per Capita (4) $18,655"
+            },
+            {
+              "pdf_page": 12,
+              "page_label": "6",
+              "quote": "Population as of January 18, 2022(3) 15,898"
+            }
+          ]
+        },
+        {
+          "id": "F3",
+          "text": "The tax base is almost all oil and gas: about 95% of assessed value. Hilcorp/Harvest (36.5%) and ConocoPhillips (31.6%) pay over two-thirds of the levy, and the top ten taxpayers pay 94.4%.",
+          "cites": [
+            {
+              "pdf_page": 12,
+              "page_label": "6",
+              "quote": "approximately 95% ($21.0 billion) of the January 1, 2022 total $22.0 Billion Assessed Value is from oil and gas industry companies"
+            },
+            {
+              "pdf_page": 43,
+              "page_label": "A-1-17",
+              "quote": "Hilcorp/Harvest Oil and Gas Producer $8,028,978,070 $144,441,315 36.5%"
+            },
+            {
+              "pdf_page": 43,
+              "page_label": "A-1-17",
+              "quote": "Conoco Phillips AK Co Oil and Gas Producer 6,941,462,750 124,876,915 31.6"
+            },
+            {
+              "pdf_page": 43,
+              "page_label": "A-1-17",
+              "quote": "Total Top Taxpayer Levy $20,755,395,944 $373,389,573 94.4%"
+            }
+          ]
+        },
+        {
+          "id": "F4",
+          "text": "The tax falls on oil and gas property, not production, so oil prices and output affect the base only indirectly.",
+          "cites": [
+            {
+              "pdf_page": 30,
+              "page_label": "A-1-4",
+              "quote": "the sales price and level of production of oil and gas do not directly affect the Borough's property tax base"
+            }
+          ]
+        },
+        {
+          "id": "F5",
+          "text": "Taxes levied for GO debt service sit outside the statutory and Charter tax limits.",
+          "cites": [
+            {
+              "pdf_page": 39,
+              "page_label": "A-1-13",
+              "quote": "property taxes levied or pledged to pay or secure the payment of the principal and interest on general obligation bonds are not subject to the limitations described above"
+            }
+          ]
+        },
+        {
+          "id": "F6",
+          "text": "Collections are steady: 99.55% of the FY 2021 levy was collected in the current year, at a 17.99 mill rate.",
+          "cites": [
+            {
+              "pdf_page": 40,
+              "page_label": "A-1-14",
+              "quote": "FY 2017 FY 2018 FY 2019 FY 2020 FY 2021"
+            },
+            {
+              "pdf_page": 40,
+              "page_label": "A-1-14",
+              "quote": "Millage Rate 17.99 17.99 17.99 17.99 17.99"
+            },
+            {
+              "pdf_page": 40,
+              "page_label": "A-1-14",
+              "quote": "Percent of Levy Collected 99.38% 99.34% 99.62% 99.23% 99.55%"
+            }
+          ]
+        },
+        {
+          "id": "F7",
+          "text": "$4,889,000 of 2022A proceeds go to the Barrow Seawall Project, where the Borough's share is currently 35%, about $174 million of an estimated $497 million.",
+          "cites": [
+            {
+              "pdf_page": 57,
+              "page_label": "A-1-31",
+              "quote": "$4,889,000 of the proceeds of the 2022A Bonds will be applied to acquire easements required for, and pay other costs of, the Barrow Seawall Project"
+            },
+            {
+              "pdf_page": 57,
+              "page_label": "A-1-31",
+              "quote": "The Borough's share of the cost of the Barrow Seawall Project is currently 35% or approximately $174 million"
+            },
+            {
+              "pdf_page": 57,
+              "page_label": "A-1-31",
+              "quote": "approximately $497 million with an expected completion date of 2028/29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comp profile",
+      "claims": [
+        {
+          "id": "G1",
+          "text": "Size: $94,485,000 total, in series of $71,530,000, $9,165,000 and $13,790,000.",
+          "derived": true,
+          "calc": "71,530,000 + 9,165,000 + 13,790,000 = 94,485,000",
+          "cites": [
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "the sale of its $71,530,000 North Slope Borough"
+            },
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "its $9,165,000 North Slope Borough"
+            },
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "its $13,790,000 North Slope Borough"
+            }
+          ]
+        },
+        {
+          "id": "G2",
+          "text": "Maturities: serial 2023 to 2033, with the weight in the 2022A maturities of 2027 ($20,250,000), 2028 ($21,810,000) and 2029 ($23,360,000).",
+          "cites": [
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2023 $ 420,000 5.00% 3.230% 662523Q36"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2033 1,080,000 5.00 3.920 662523R50"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2027 20,250,000 5.00 3.490 662523P86"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2028 21,810,000 5.00 3.560 662523P94"
+            },
+            {
+              "pdf_page": 2,
+              "page_label": "unnumbered",
+              "quote": "2029 23,360,000 5.00 3.600 662523Q28"
+            }
+          ]
+        },
+        {
+          "id": "G3",
+          "text": "Tax status: all three series are tax-exempt, with no taxable piece, so the comps are tax-exempt.",
+          "cites": [
+            {
+              "pdf_page": 15,
+              "page_label": "9",
+              "quote": "interest on the 2022 Bonds is excluded from gross income for Federal income tax purposes"
+            }
+          ]
+        },
+        {
+          "id": "G4",
+          "text": "Sale method: KeyBanc, as underwriter, buys each series at a set purchase price. The OS has no notice of sale or bid results.",
+          "cites": [
+            {
+              "pdf_page": 19,
+              "page_label": "13",
+              "quote": "has agreed, subject to certain conditions precedent, to purchase the 2022A Bonds, if any are purchased, at a price of $76,503,186.78"
+            }
+          ]
+        },
+        {
+          "id": "G5",
+          "text": "State: Alaska. It isn't one of the states that trade on their own curve (California and New York, for example), so the comp pool is national.",
+          "cites": [
+            {
+              "pdf_page": 7,
+              "page_label": "1",
+              "quote": "provides information relating to the North Slope Borough, Alaska (the \"Borough\")"
+            }
+          ]
+        },
+        {
+          "id": "G6",
+          "text": "Ratings: AA (S&P), AA (Fitch) and AA+ (Kroll), so look at comps rated about AA- to AA+ and widen if the list is thin.",
+          "cites": [
+            {
+              "pdf_page": 19,
+              "page_label": "13",
+              "quote": "S&P Global Ratings (\"S&P\") has rated the 2022 Bonds \"AA\"; Fitch Ratings Inc. (\"Fitch\") has rated the 2022 Bonds \"AA\" and Kroll Bond Rating Agency, Inc. (\"Kroll\") has rated the 2022 Bonds \"AA+.\""
+            }
+          ]
+        },
+        {
+          "id": "G7",
+          "text": "Security: unlimited-tax GO. GO comps come first, but a revenue deal of similar size and maturities can still work.",
+          "cites": [
+            {
+              "pdf_page": 9,
+              "page_label": "3",
+              "quote": "without limitation as to rate or amount"
+            }
+          ]
+        },
+        {
+          "id": "G8",
+          "text": "Call terms: none. These bonds can't be redeemed early, so record each comp's call terms, since a callable comp isn't a like-for-like yield.",
+          "cites": [
+            {
+              "pdf_page": 8,
+              "page_label": "2",
+              "quote": "The 2022 Bonds are not subject to redemption prior to maturity."
+            }
+          ]
+        }
+      ],
+      "note": "Search this implies (EMMA or the desk's own platform): negotiated, tax-exempt new issues that priced the same week, of similar size (about $94.5 million) and maturities (2023 to 2033, weighted to 2027 to 2029), rated about AA- to AA+, outside the states that trade on their own curve, GO first. Then open each candidate's official statement and confirm its maturity schedule before it goes in the comp set."
+    }
+  ],
+  "not_in_document": [
+    {
+      "item": "Pricing date and order period",
+      "where_checked": "Cover and Underwriting (p. 13) give the OS date and purchase prices only."
+    },
+    {
+      "item": "Spreads to MMD or another benchmark",
+      "where_checked": "The OS gives coupons and yields (inside cover), not spreads. The benchmark is licensed data, so the comp set leaves spreads blank."
+    },
+    {
+      "item": "Takedown and other parts of the underwriter's discount",
+      "where_checked": "Underwriting (p. 13) gives the total discount per series only."
+    }
+  ],
+  "short_title": "North Slope Borough, Alaska: GO Bonds, Series 2022A, 2022B and 2022C",
+  "subtitle": "$94,485,000 | Final official statement dated October 26, 2022 (220 pages) | Written by the official-statement-reader skill, run in Claude Code and machine-checked",
+  "footer": "Source: the public official statement on MSRB EMMA. Page numbers are the printed page, then the PDF page. Quotes are whitespace-normalized; nothing else is changed."
+}

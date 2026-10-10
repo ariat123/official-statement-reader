@@ -1,0 +1,38 @@
+PASS  A1   North Slope Borough, Alaska is selling three series of general obligat
+PASS  A2   Total par across the three series is $94,485,000.
+PASS  A3   The final official statement is dated October 26, 2022. Delivery is ex
+PASS  A4   KeyBanc Capital Markets Inc. is the underwriter and has agreed to buy 
+PASS  A5   Working group: JD Capital Markets LLC (Seattle) is municipal advisor, 
+PASS  B1   Unlimited-tax GO pledge: the Borough pledges its full faith and credit
+PASS  B2   The Borough's Permanent Fund (about $961.8 million on June 30, 2022) c
+PASS  B3   Alaska municipalities can't currently file for Chapter 9 bankruptcy, a
+PASS  B4   Voters approved the bond ordinances on October 4, 2022, and the Assemb
+PASS  B5   Proceeds fund capital projects under ten bond ordinances authorizing $
+PASS  C1   All maturities carry 5.00% coupons. Serial maturities run 2023 to 2033
+PASS  C2   Yields run from 3.230% in 2023 to 3.920% in 2033. The large 2022A matu
+PASS  C3   No call: the bonds are not subject to redemption before maturity.
+PASS  C4   Interest is paid June 30 and December 30, starting June 30, 2023. Deno
+PASS  C5   Tax-exempt and not an AMT preference item. For tax years after Decembe
+PASS  C6   Debt service on this issue totals $118,388,406. It peaks at $24,653,75
+PASS  D1   The 2022 Bonds are rated AA by S&P, AA by Fitch and AA+ by Kroll.
+PASS  D2   The Moody's Aa2 listed in the audited financial statements (Appendix D
+PASS  E1   Sources are par plus original issue premium of $5,115,226.50 (2022A), 
+PASS  E2   Uses are deposits to the capital projects funds ($76,136,000.00, $9,74
+PASS  E3   Underwriter's discount totals $187,622.30 across the three series, abo
+PASS  F1   After this issue the Borough will have $296,580,000 of GO bonds outsta
+PASS  F2   Net GO debt is 1.35% of the $21,982,877,719 assessed value as of Janua
+PASS  F3   The tax base is almost all oil and gas: about 95% of assessed value. H
+PASS  F4   The tax falls on oil and gas property, not production, so oil prices a
+PASS  F5   Taxes levied for GO debt service sit outside the statutory and Charter
+PASS  F6   Collections are steady: 99.55% of the FY 2021 levy was collected in th
+PASS  F7   $4,889,000 of 2022A proceeds go to the Barrow Seawall Project, where t
+PASS  G1   Size: $94,485,000 total, in series of $71,530,000, $9,165,000 and $13,
+PASS  G2   Maturities: serial 2023 to 2033, with the weight in the 2022A maturiti
+PASS  G3   Tax status: all three series are tax-exempt, with no taxable piece, so
+PASS  G4   Sale method: KeyBanc, as underwriter, buys each series at a set purcha
+PASS  G5   State: Alaska. It isn't one of the states that trade on their own curv
+PASS  G6   Ratings: AA (S&P), AA (Fitch) and AA+ (Kroll), so look at comps rated 
+PASS  G7   Security: unlimited-tax GO. GO comps come first, but a revenue deal of
+PASS  G8   Call terms: none. These bonds can't be redeemed early, so record each 
+
+36/36 claims passed
