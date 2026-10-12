@@ -6,9 +6,9 @@ A skill that reads a municipal bond official statement and writes a deal summary
 
 ## Why I built it
 
-Before each pricing at KeyBanc, I pulled comps: negotiated, tax-exempt deals of similar size and maturities that priced that week, from TM3 into an Excel model for our underwriter. Then I opened each comp's official statement to check its maturity schedule. That reading is the slow part, and it's what this skill does.
+Before each pricing at KeyBanc, I pulled comps for our underwriter, then opened each comp's official statement to check its maturity schedule. That reading is the slow part, and it's what this skill does.
 
-An official statement runs 150 to 300 pages, and the terms that matter are spread across the cover, the inside cover, the body and the appendices. A deal team won't trust a number it can't trace, so the summary shows its page for every line. I tested it on North Slope Borough's 2022 GO offering, a deal where I led the analyst work. The script checks every line against the official statement.
+An official statement runs 150 to 300 pages, so the summary cites a page for every line. I tested it on North Slope Borough's 2022 GO offering, a deal where I led the analyst work.
 
 ## What you get
 
@@ -48,7 +48,7 @@ The North Slope official statement is public on [MSRB EMMA](https://emma.msrb.or
 
 ## Limits
 
-- It reads what the official statement says. It doesn't pull licensed data such as MMD spreads or dealer pricing, so those stay blank for a desk's own feed.
-- It doesn't pick the comps for you. It gives the keys and the search, then reads each candidate's official statement the same way.
+- It doesn't pull licensed data such as MMD spreads or dealer pricing.
+- It doesn't pick the comps for you. It gives the keys and the search.
 - The checker proves a quote is on the cited page, not that the reading is right. A person still reviews the summary before it's used.
 - The sample was written by running the skill in Claude Code on the public OS, then machine-checked.
